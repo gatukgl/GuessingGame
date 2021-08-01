@@ -1,6 +1,6 @@
 # GuessingGame
 
-**TODO: Add description**
+Learning Elixir by writing guessing game based on this lesson - https://alchemist.camp/episodes/guessing-game
 
 ## Installation
 
